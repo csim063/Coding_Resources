@@ -6,6 +6,8 @@ output:
 navbar:
   title: <strong>Coding resources for ecologists</strong>
   right:
+    - text: "Home"
+      href: index.html
     - text: "Git & GitHub"
       href: git.html
     - text: "R & RStudio"
