@@ -1,5 +1,5 @@
 ---
-title: "Finding Help"
+title: "**Finding Help**\n"
 ---
     
 There are a large number of resources are available to help with almost all coding issues, whether they are specific to R or more general. The first strategy once you feel stuck is to use Google (or an alternative search engine) to using a well thought out search term. You can also look into the [Main R FAQ](https://cran.r-project.org/doc/FAQ/R-FAQ.html) page for answers to more language specific questions. Another strategy that should not be ignored is to ask your experienced colleagues, but remember not to become a pest.
