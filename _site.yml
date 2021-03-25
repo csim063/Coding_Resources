@@ -14,5 +14,5 @@ navbar:
       href: R_coding.html
     - text: "SpaDES"
       href: SpaDES.html
-    - text: "Finding Help"
-      href: finding_help.html
+    - text: "Finding help"
+      href: help.html
