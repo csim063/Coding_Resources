@@ -1,0 +1,22 @@
+---
+title: "**Learn version control with Git and GitHub**\n"
+---
+    
+A version control system is a tool to track the history of changes made to a project. A very commonly used version control system is Git. As a quick note Git and GitHub are **not** the same thing. Git is an open-source, version control tool created in 2005 by developers working on the Linux operating system. GitHub is a company which hosts Git repositories online.
+
+# Open source resources
+- [Version control with Git](https://swcarpentry.github.io/git-novice/)
+  - Created by software carpentry, this is a step by step interactive tutorial on how to use Git and why, along with how to link up with GitHub.
+  - In addition this tutorial offers a module of how to use Git from RStudio
+- [An intro to Git and GitHub for beginners (tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+  - A step by step guide on how to use Git and GitHub, focusing on how to use the many features of GitHub for collaboration.
+- [GitHub Guides](https://guides.github.com/)
+  - Especially "Hello World" and "Git Handbook"
+  - This is a collection of guides and tutorials created and collated by GitHub themselves. It offers a useful set of resources to both learn the basics of how to use Git and GitHub but also offers more advanced resources to access over time.
+-[Learn Git - Commands, tutorials & more](https://www.gitkraken.com/learn/git#git-concepts)
+  - This is a collection of interactive tutorials developed by the GitKraken team
+  - GitKraken is a GUI interface with which to use Git and online repositories. It can be extremely useful especially when starting or involved with complex projects.
+- [GitHub Training & Guides YouTube channel](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw)
+  - This is a YouTube channel, run by the GitHub Training team, hosting a number of explanatory and tutorial videos. The content of the videos ranges in scope from basic to advanced.
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&list=PLBsSUX2rnY6NvWRlDvzX6ca5egXetHMxi&index=5)
+  - This is an hour long video, created by freeCodeCamp.org and hosted on YouTube, giving a thorough overview of how to get started and functionally use both Git and GitHub.

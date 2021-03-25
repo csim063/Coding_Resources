@@ -1,0 +1,16 @@
+name: "coding-resources"
+output:
+  html_document:
+    self_contained: no
+    theme: yeti
+navbar:
+  title: <strong>Coding resources for ecologists</strong>
+  right:
+    - text: "Git & GitHub"
+      href: git.html
+    - text: "R & RStudio"
+      href: R_coding.html
+    - text: "SpaDES"
+      href: SpaDES.html
+    - text: "Finding Help"
+      href: finding_help.html

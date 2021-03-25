@@ -1,0 +1,66 @@
+---
+title: "**Learn R and RStudio** \n"
+---
+This page lists a number of free resources (including textbooks, blog posts, and videos) to help beginner and intermediate R programmers learn useful aspects of the language along with a very commonly used itegrated development environment (RStudio).
+    
+# Introduction to R
+### Written materials
+- [An introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
+  - This is a near complete manual on the usage of R. As it is a technical manual it is very dense.
+- [YaRrr! The pirate's guide to R by Nathaniel Phillips](https://bookdown.org/ndphillips/YaRrr/)
+  - This is a somewhat lighthearted textbook introducing the basics of R as well as how to do a number of useful statistical analyses with the language.
+- [Getting started with data in R by ModernDive](https://moderndive.netlify.app/1-getting-started.html)
+  - Focus on chapter 1 "Getting Started with Data in R"
+  - Book is a very beginner friendly entry into R and how to get basic things done with it.
+
+### Interactive/Video materials
+- [Data analysis and visualization using R](http://varianceexplained.org/RData/)
+  - Framed as an interactive textbook, this course includes text and video explanations along wih interactive exercises to teach R.
+- [RStudio Primers](https://rstudio.cloud/learn/primers)
+  - This is a collection of introductory tutorials created by the RStudio team and hosted on the RStudioCloud. These tutorials can be done online easing any issues of getting R working on the desktop initially.
+- [swirl](https://swirlstats.com/)
+  - `swirl` is a really interesting project to learn R. It is an R package which allows you to run a command in R which then installs an interactive course which you can complete directly from R.
+
+# Introduction to RStudio
+### Written materials
+- [An opinionated tour of RStudio by R-Ladies Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-1/)
+  - Short simple introduction to the installation and basic features of RStudio.
+- [RStudio projects and working directories: A beginner’s guide](https://www.r-bloggers.com/2020/01/rstudio-projects-and-working-directories-a-beginners-guide/)
+  - A blog post explaining how and why to utilise RStudio Projects and associated folder conventions to allow for better project code management.
+- [Project management with RStudio](https://swcarpentry.github.io/r-novice-gapminder/02-project-intro/)
+  - A tutorial demonstrating one possible work-flow using RStudio to set up an analysis.
+- [Debugging with RStudio](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio)
+  - A tutorial demonstrating how to use the rich debugging features in RStudio to catch issues in R code.
+
+### Interactive/Video materials
+- [Programming in RStudion parts 1-3](https://rstudio.com/resources/webinars/programming-part-1-writing-code-in-rstudio/)
+  - A set of video tutorials demonstrating how to use all the features in RStudio to maximise productivity when writing R code.
+- [Studio managing parts 1-3](https://rstudio.com/resources/webinars/managing-part-1-projects-in-rstudio/)
+  - A set of videos exploring how to use RStudio projects and associated features to best manage project code bases in RStudio.
+
+# (Slightly) More advanced R
+- [R for data science by Hadley Wickham](https://r4ds.had.co.nz/introduction.html)
+  - While still starting with the relative basics this book explains and demonstrates how to undertake successful data analysis in R. 
+- [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/)
+  - This book expands on some of the more seldomly used (at least by novices) features of R and details some of the more hidden aspects of the language.
+- [R Markdown: The definitive guide by Yihui Xie et al.](https://bookdown.org/yihui/rmarkdown/)
+  - RMarkdown is an extremely useful R package, especially for reproducible science, allowing code (R and others) to be intermingled with explanatory prose. Code can be run and results shown within the RMarkdown document. This book explains every detail needed to start working with RMarkdown
+- [R Packages by Hadley Wickham](https://r-pkgs.org/)
+  - Packages in R are collections of functions organised in a standardised manner along with associated documentation, metadata, unit tests, and data. Packages act as the fundamental unit of sharable code in R. This books explains how to build your own packages within a standard framework using a very user-friendly work-flow.
+  
+## Profiling in R
+- [How to profile and optimize code using profvis](https://rstudio.com/resources/webinars/how-to-profile-and-optimize-code-using-profvis-a-new-package-for-exploring-profiling-data/)
+  - A video course explaining how to use the `provis` R package to optimise R code to improve speed. 
+  
+# Other tips and tricks
+- [CRAN task views](https://cran.r-project.org/web/views/)
+  - CRAN Task Views are documents that summarize R resources on CRAN in particular areas of application, helping your to navigate the maze of thousands of CRAN packages.
+- [R style guide](http://adv-r.had.co.nz/Style.html)
+  - A strongly opinionated, but very useful style guide for the R programming language 
+- [Using the `foreach` package](https://cran.r-project.org/web/packages/foreach/vignettes/foreach.html)
+  - An introduction to the `foreach` package a very useful tool for creating parallel R code
+
+# Useful websites/blogs to look into
+- [R Weekly](https://rweekly.org/)
+- [R-bloggers](https://www.r-bloggers.com/)
+- [ROpenSci](https://ropensci.org/)

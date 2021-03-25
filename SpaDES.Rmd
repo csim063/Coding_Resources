@@ -1,0 +1,28 @@
+---
+title: "**Learn to use and develop SpaDES modules** \n"
+---
+    
+Spatial Discrete Event Simulation (SpaDES) is a R metapackage for implementing a variety of event-based models, with a focus on spatially explicit models. The project is continually evolving and new materials are created at a rapid pace, the first point of contact to explore SpaDES is its [website](https://spades.predictiveecology.org/) which includes links to most of the available resources and includes an installation guide. There are a large number of resources available to learn SpaDES though they are currently quite disparate, but this is being actively improved. 
+
+*Please note the SpaDES ecosystem makes heavy use of GitHub and it is highly recommended you have an understanding of Git and GitHub before tackling SpaDES*
+
+# Tutorials
+- [Getting started guide](https://github.com/PredictiveEcology/SpaDES/wiki/Getting-Started-Guide)
+- [LCC2005 tutorial](https://github.com/PredictiveEcology/SpaDES-modules/blob/master/modules/LCC2005/LCC2005.Rmd)
+- [SpaDES 4 dummies](https://github.com/CeresBarros/SpaDES4Dummies) This is my recommended starting point into SpaDES
+
+## Documentation
+- [Best practices for building and using SpaDES modules (a live document)](https://docs.google.com/document/d/19QmQ5sErqbXF_mgv3M50SnRQJBciFvCV_LuJDsj0qKA/edit#heading=h.hbupysrpqzjk)
+- [List of currently known modules](https://github.com/PredictiveEcology/SpaDES-modules/wiki/Current-modules-in-development)
+
+### Available vignettes
+Help documentation can be accessed directly from R (once SpaDES is installed) using `?SpaDES` and/or `browseVignettes(package="SpaDES")`
+
+- [Introduction](https://spades-core.predictiveecology.org/articles/i-introduction.html)
+- [Building modules](https://spades-core.predictiveecology.org/articles/ii-modules.html)
+- [Plotting](https://quickplot.predictiveecology.org/articles/iii-plotting.html)
+- [Caching](https://spades.predictiveecology.org/articles/iii-cache.html)
+
+## Upcoming workshops
+One of the best ways to learn SpaDES is to have an expert help you out. As such SpaDES workshops are run regularly by members of the development team. Keep an eye out on [this website](https://spades-workshops.predictiveecology.org/) for the latest details on upcoming workshops
+
