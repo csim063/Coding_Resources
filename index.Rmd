@@ -2,4 +2,7 @@
 title: ""
 ---
     
+---
+title: "**About this collection** \n"
+--- 
 This site acts as a dynamic collection of links to coding resources focused towards assisting ecologists with their needs. The resources are biased towards the needs of Environment & Climate Change Canada scientists, with the primary coding language used being R.
