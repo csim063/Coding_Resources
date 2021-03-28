@@ -14,5 +14,7 @@ navbar:
       href: R_coding.html
     - text: "SpaDES"
       href: SpaDES.html
+    - text: "Geospatial"
+      href: geo_analysis.html
     - text: "Finding help"
       href: help.html

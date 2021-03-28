@@ -1,0 +1,30 @@
+---
+title: "**Geospatial analysis tips** \n"
+---
+The R ecosystem is very well developed for geospatial analyses, with base R including many functions that can be used for reading, visualising, and analysing spatial data, along with a number of excellent packages available to enhance, simplify, and speed up spatial analyses.
+
+# Key packages
+ - [`sf`](https://r-spatial.github.io/sf/): The key library for working with spatial objects (other than rasters)
+ - [`sp`](https://cran.r-project.org/web/packages/sp/index.html): The predecessor to `sf`, while largely replaced there are still many situations where this package is useful.
+ - [`raster`](https://cran.r-project.org/web/packages/raster/raster.pdf): Raster data is a commonly used spatial data type, and the `raster` package is the most widely used and useful package for handling data of this type.
+ - [`terra`](https://github.com/rspatial/terra): The `terra` package is currently still in development but is designed to be a replacement to the `raster` package, offering easier to use and faster functions
+ - [`stars`](https://r-spatial.github.io/stars/): This R package provides classes and methods for reading, manipulating, plotting and writing dense arrays, with space and time being array dimensions, called "data cubes"
+ - [`spatstats`](https://spatstat.org/): An R package for spatial statistics with a strong focus on analysing spatial point patterns in 2D
+
+# Tutorials
+- [Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
+  - A detailed demonstration and explanation on how to analyse spatial data with R, focusing on visualisation.
+- [Spatial data handling](https://spatialanalysis.github.io/lab_tutorials/1_R_Spatial_Data_Handling.html)
+  - An example workflow on how to obtain, explore and visualise spatial data, using abandoned vehicles in Chicago as an example. The code is written more for beginners.
+- [Intro to spatial analysis with R](https://ourcodingclub.github.io/tutorials/spatial/)
+  - An easy to follow example focused on handling and analysis remote sensing/satellite data
+
+# Useful resources
+- [CRAN task view: Analysis of spatial data](https://cran.r-project.org/web/views/Spatial.html)
+  - A collated collection of R packages assessed to be useful for spatial analysis
+- [R special interest group on using geographical data and mapping newsletter](https://stat.ethz.ch/mailman/listinfo/R-SIG-Geo/)
+  - A mailing list for discussing the development and use of R functions and packages for handling and analysis of spatial, and particularly geographical, data. The list also covers mapping and cartographic issues, and interfaces between R and geographical information systems.
+- [Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
+  - An excellent comprehensive textbook explainin how to undertake most spatial analyses (or their building blocks) in R.
+
+#
