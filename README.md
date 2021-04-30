@@ -1,0 +1,1 @@
+Repository hosting a collated collection of links to coding tutorials and resources, primarily focused towards ecologists and other Environment & Climate Change Canada scientists. This is intended to be a dynamic list and contributions towards any of the lists are more than welcome. 
